@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "Book List";
+}
+<h1>Book List</h1>
+<p>
+    @using (Html.BeginForm("Index", "Book", FormMethod.Get))
+    {
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Search" name="searchTerm" value="@Model.SearchTerm" />
+            <div class="input-group-append">
+                <button class="btn btn-primary" type="submit">Search</button>
+            </div>
+        </div>
+    }
+</p>
+<div>
+    <a class="btn btn-primary" href="@Url.Action("Create")">Add New Book</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Publication Date</th>
+            <th>Genre</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.PublicationDate.ToShortDateString()</td>
+                <td>@book.Genre</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", "Book", new { id = book.Id })">Edit</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", "Book", new { id = book.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<nav aria-label="Page navigation">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.Pagination.TotalPages; i++)
+        {
+            <li class="page-item @(Model.Pagination.CurrentPage == i ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", "Book", new { page = i, searchTerm = Model.SearchTerm })">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

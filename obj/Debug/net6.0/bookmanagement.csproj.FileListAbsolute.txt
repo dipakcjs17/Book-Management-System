@@ -1,0 +1,56 @@
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/appsettings.Development.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/appsettings.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement.staticwebassets.runtime.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement.deps.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement.runtimeconfig.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement.dll
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/ref/bookmanagement.dll
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/bin/Debug/net6.0/bookmanagement.pdb
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.csproj.AssemblyReference.cache
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.GeneratedMSBuildEditorConfig.editorconfig
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.AssemblyInfoInputs.cache
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.AssemblyInfo.cs
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.csproj.CoreCompileInputs.cache
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.MvcApplicationPartsAssemblyInfo.cache
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.RazorAssemblyInfo.cache
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.RazorAssemblyInfo.cs
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/staticwebassets.build.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/staticwebassets.development.json
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/scopedcss/bundle/bookmanagement.styles.css
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/scopedcss/projectbundle/bookmanagement.bundle.scp.css
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.dll
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/ref/bookmanagement.dll
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.pdb
+/media/mrblon/New Volume/College materials/6th sem/net centric lab/bookmanagement/obj/Debug/net6.0/bookmanagement.genruntimeconfig.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.dll
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.pdb
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.staticwebassets.runtime.json
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.exe
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.deps.json
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.runtimeconfig.json
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.dll
+C:\Users\acer\Downloads\bookmanagement\bin\Debug\net6.0\bookmanagement.pdb
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.AssemblyInfo.cs
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.RazorAssemblyInfo.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.RazorAssemblyInfo.cs
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets\msbuild.bookmanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets\msbuild.build.bookmanagement.props
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bookmanagement.props
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bookmanagement.props
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\scopedcss\bundle\bookmanagement.styles.css
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\scopedcss\projectbundle\bookmanagement.bundle.scp.css
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\refint\bookmanagement.dll
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\bookmanagement.genruntimeconfig.cache
+C:\Users\acer\Downloads\bookmanagement\obj\Debug\net6.0\ref\bookmanagement.dll
